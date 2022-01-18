@@ -1,0 +1,16 @@
+{
+  "name": "Taiwan-Travel",
+  "version": "1.0.0",
+  "description": "TAIWAN TRAVEL - 2021 THE F2E 活動作品",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodeman": "^1.1.2"
+  },
+  "devDependencies": {}
+}
